@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Leaders {
     public static void main(String[] args) {
-        int[] arr = {16, 17, 4, 3, 5, 2, 3};
+        int[] arr = {16, 17, 4, 3, 5, 2, 3, 1};
         leaderArray(arr);
     }
 
